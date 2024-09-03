@@ -38,6 +38,8 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/5c7a03c2-ed3a-4cce-afda-b6dffb9d093c)
+
 
 ## Program 2: : Swap the numbers using call by reference.
 <strong> Code: </strong>
@@ -66,6 +68,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/b3c2ee98-cdd0-446c-acde-2ea3c3c25988)
+
 
 ## Conclusion:
 The two programs illustrate the difference between "Call by Value" and "Call by Reference" in C++. In "Call by Value," changes made inside the function do not affect the original variables, while in "Call by Reference," the changes are reflected outside the function. Understanding these concepts is essential for effective function design in C++.
